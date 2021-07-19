@@ -1,0 +1,62 @@
+$colorFondo: #E5E5E5;
+$colorContraste: #C4C4C4;
+$colorLetra: #005677;
+$fuentePrincipal: 'Times New Roman', Times, serif;
+
+header{
+    background-color: $colorFondo;
+    text-align: center;
+}
+h1{
+    background-color: $colorContraste;
+    color:$colorLetra;
+    font-family: $fuentePrincipal;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 15px;
+    padding-top: 15px;
+   padding-bottom: 15px;
+}
+main{
+    background-color:$colorFondo;
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+footer{
+    background-color: $colorLetra;
+    text-align: center;
+    font-family: $fuentePrincipal;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: $colorFondo;
+    padding-top: 15px;
+   padding-bottom: 15px;
+}
+h2{
+    background-color: $colorContraste;
+    color: $colorLetra;
+    font-family:$fuentePrincipal; 
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 17px;
+    line-height: 85%;
+    text-align: Left;
+    vertical-align: Top;
+   padding-top: 15px;
+   padding-bottom: 15px;
+    letter-spacing: 8px;
+}
+
+.items{
+    font-size: 15px;
+    font-weight: 400; 
+}
+ul{
+    line-height: 30px;
+}
+dd{
+    line-height: 40px;
+}

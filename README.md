@@ -1,4 +1,4 @@
 # CVBatman
-## lenguajes utilizados: html y css.
+## lenguajes utilizados: html, css y sass.
 
 ### link repositorio https://dolores91.github.io/CVBatman/
